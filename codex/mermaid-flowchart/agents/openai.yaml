@@ -1,0 +1,6 @@
+interface:
+  display_name: "Mermaid Flowchart"
+  short_description: "Permanent flowchart alias for technical-diagrams"
+  default_prompt: "Use $mermaid-flowchart to route the process we discussed through technical-diagrams."
+policy:
+  allow_implicit_invocation: true

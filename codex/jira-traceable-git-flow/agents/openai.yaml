@@ -1,0 +1,6 @@
+interface:
+  display_name: "Jira-Traceable Git Flow"
+  short_description: "Prepare ticket-linked Git delivery safely"
+  default_prompt: "Use $jira-traceable-git-flow to prepare a ticket-linked Git change or revert from verified repository conventions."
+policy:
+  allow_implicit_invocation: true

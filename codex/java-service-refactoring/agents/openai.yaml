@@ -1,0 +1,6 @@
+interface:
+  display_name: "Java Service Refactoring"
+  short_description: "Refactor Java flows without behavior drift"
+  default_prompt: "Use $java-service-refactoring to assess this Java refactor and its flow impact before editing."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+/discussion/
+/plans/
+/.worktrees/
+node_modules/
+__pycache__/
+.kiro/
+.DS_Store
